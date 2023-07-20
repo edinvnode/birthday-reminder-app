@@ -1,2 +1,3 @@
-# birthday-reminder-app
-A simple birthday reminder application made in React JS.
+## Idea
+
+[https://uidesigndaily.com/](https://uidesigndaily.com/posts/sketch-birthdays-list-card-widget-day-1042)
